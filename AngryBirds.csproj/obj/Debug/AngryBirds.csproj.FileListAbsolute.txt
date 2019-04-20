@@ -1,0 +1,7 @@
+C:\Users\ASUS\Downloads\AngryBirds.csproj\bin\Debug\AngryBirds.exe.config
+C:\Users\ASUS\Downloads\AngryBirds.csproj\bin\Debug\AngryBirds.exe
+C:\Users\ASUS\Downloads\AngryBirds.csproj\bin\Debug\AngryBirds.pdb
+C:\Users\ASUS\Downloads\AngryBirds.csproj\bin\Debug\TestingRoom.dll
+C:\Users\ASUS\Downloads\AngryBirds.csproj\obj\Debug\AngryBirds.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\AngryBirds.csproj\obj\Debug\AngryBirds.exe
+C:\Users\ASUS\Downloads\AngryBirds.csproj\obj\Debug\AngryBirds.pdb

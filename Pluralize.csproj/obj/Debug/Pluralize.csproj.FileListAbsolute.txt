@@ -1,0 +1,7 @@
+C:\Users\ASUS\Downloads\Pluralize.csproj\bin\Debug\Pluralize.exe.config
+C:\Users\ASUS\Downloads\Pluralize.csproj\bin\Debug\rubles.txt
+C:\Users\ASUS\Downloads\Pluralize.csproj\bin\Debug\Pluralize.exe
+C:\Users\ASUS\Downloads\Pluralize.csproj\bin\Debug\Pluralize.pdb
+C:\Users\ASUS\Downloads\Pluralize.csproj\obj\Debug\Pluralize.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\Pluralize.csproj\obj\Debug\Pluralize.exe
+C:\Users\ASUS\Downloads\Pluralize.csproj\obj\Debug\Pluralize.pdb

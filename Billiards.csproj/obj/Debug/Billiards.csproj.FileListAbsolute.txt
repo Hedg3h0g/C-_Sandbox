@@ -1,0 +1,7 @@
+C:\Users\ASUS\Downloads\Billiards.csproj\bin\Debug\Billiards.exe.config
+C:\Users\ASUS\Downloads\Billiards.csproj\bin\Debug\Billiards.exe
+C:\Users\ASUS\Downloads\Billiards.csproj\bin\Debug\Billiards.pdb
+C:\Users\ASUS\Downloads\Billiards.csproj\bin\Debug\TestingRoom.dll
+C:\Users\ASUS\Downloads\Billiards.csproj\obj\Debug\Billiards.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\Billiards.csproj\obj\Debug\Billiards.exe
+C:\Users\ASUS\Downloads\Billiards.csproj\obj\Debug\Billiards.pdb
